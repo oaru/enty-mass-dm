@@ -41,5 +41,5 @@ yNuke - A discord account nuker
 - serverprofile
   - will be used in server spam feature for the server profile
   
-  
-Made by: YeetDisDude#0001
+ 
+credits : oaru
